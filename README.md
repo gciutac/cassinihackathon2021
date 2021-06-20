@@ -24,7 +24,7 @@ We intend on making use of Arduinos and appropriate components, that will monito
 
 # **Future Plans:**
 
-	After the Minimum Viable Product has been achieved there is a lot more work that can be put into this project to further enrich the process, monitoring and functionality.
+After the Minimum Viable Product has been achieved there is a lot more work that can be put into this project to further enrich the process, monitoring and functionality.
 
 A Flutter App can be developed which could allow the homeowner to override the control of water flow if required or be able to portray statistics to the homeowner concerning their water consumption, how much water they have saved or how contaminated their water becomes during the day based on the outgoing water’s metrics.
 
