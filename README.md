@@ -1,5 +1,4 @@
-# Cassini Hackathon 2021
-Cassini Hackathon AnyDrop Project
+# Cassini Hackathon 2021 - AnyDrop Project
 
 
 Water is a quintessential component of life and predictions of water scarcity are to rise in the future. We propose a system that will help us save our water by more efficiently utilising it at the household stage while being able to monitor our surrounding areas for improvements.
@@ -11,9 +10,9 @@ We believe that water is often misused and ultimately wasted in many households 
 
 However, we believe that we should have the power in our household to be able to save water. For example, when we wash an apple or even the first few minutes in the shower before we start applying soaps, for most part this water isn’t heavily polluted with contaminants and we could save and reuse it by watering our gardens or local green areas.
 
-	# **Real-world Impact:**
+# **Real-world Impact:**
 
-	 Clean and drinkable water will undeniably be the next major resource that we will struggle to procure in the future and with global warming on the rise this will only become harder as time progresses.
+Clean and drinkable water will undeniably be the next major resource that we will struggle to procure in the future and with global warming on the rise this will only become harder as time progresses.
 
 Using our water more efficiently will give us the benefit of not having to compromise with water cuts and thus our green areas will continue to flourish. By employing smart systems in our households which have the capability to evaluate the water’s cleanliness and if satisfied then store it, will definitely make a positive impact because we alleviate the stress we put on our limited fresh water reservoirs without having to constantly rely on them for everything. This will be especially helpful to our green areas in the hot summer months when abnormally harsh dry spells can impose water cuts in order to further save and prolong our water supply.
 
